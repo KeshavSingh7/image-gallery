@@ -1,2 +1,0 @@
-(this["webpackJsonpimage-gallery"]=this["webpackJsonpimage-gallery"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var r=n(1),c=n.n(r),a=n(3),i=n.n(a),s=(n(8),n(0));var l=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)("h1",{children:"Image-Gallery"})})};i.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(l,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.118f7400.chunk.js.map
